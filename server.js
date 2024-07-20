@@ -5,7 +5,7 @@ const app = express();
 const port = 3009;
 
 // Conectar a MongoDB
-mongoose.connect('mongodb://localhost:27017/tasks_db', {
+mongoose.connect('mongodb://localhost:27017/task_db', {
  
 });
 
